@@ -18,7 +18,7 @@ app.post('/generate-music', async (req, res) => {
     method: "post",
     headers: {
       "accept": "application/json",
-      "authorization": "Bearer 1d658d84eb7145b08ccffd02cf33cfdc",
+      "authorization": "Bearer 1d658d84eb7145b08ccffd0",
       "content-type": "application/json"
     },
     body: JSON.stringify({
